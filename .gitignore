@@ -1,0 +1,16 @@
+# Python and Jupyter Notebooks
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Kaggle / Environment
+.kaggle/
+venv/
+env/
+.env
+
+# OS Metadata
+.DS_Store
+Thumbs.db
