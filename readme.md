@@ -1,4 +1,8 @@
 # Mapping the Genetic Basis of Viral Attenuation in Venezuelan Equine Encephalitis
+
+## About
+This repository provides a reproducible bioinformatics workflow to identify and analyze the genetic mutations responsible for attenuation in Venezuelan Equine Encephalitis Virus (VEEV). By comparing the wild-type Trinidad Donkey (TRD) strain with the live-attenuated TC-83 vaccine strain, the project highlights key regulatory and coding changes that drive the loss of virulence, with a focus on rational vaccine design and evolutionary genomics.
+
 ## Abstract
 This repository contains a comprehensive bioinformatics pipeline analyzing the genomic determinants of attenuation in **Venezuelan Equine Encephalitis Virus (VEEV)**. 
 
