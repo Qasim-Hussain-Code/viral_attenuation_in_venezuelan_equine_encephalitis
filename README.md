@@ -1,4 +1,5 @@
-[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/qasimhu/veev-ipynb)
+![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-3776AB?style=flat&logo=python&logoColor=white) [![Open in Hugging Face](https://img.shields.io/badge/Open%20in%20Hugging%20Face-Notebook-black?style=flat&logo=huggingface&logoColor=FFD21E)](https://huggingface.co/datasets/QasimHussain/viral_attenuation_in_venezuelan_equine_encephalitis/blob/main/notebooks/veev.ipynb) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # Mapping the Genetic Basis of Viral Attenuation in Venezuelan Equine Encephalitis
 
 ## About
